@@ -14,4 +14,4 @@ A growth mindset doesn't mean I won't get frustrated, it means I'm collected eno
 * 3 : **Exercise.**
 
 ### My Repo Site
-[https://github.com/nickibaldwin] (https://github.com/nickibaldwin)
+https://github.com/nickibaldwin
