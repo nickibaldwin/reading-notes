@@ -1,6 +1,5 @@
 # **Nicki Baldwin**
 
-
 ## Description
 Reading notes for codefellows
 
@@ -16,7 +15,6 @@ A growth mindset doesn't mean I won't get frustrated, it means I'll be collected
 * **Habitual Ritual** - every damn day
 * Take a 10 minute break when frustrated. Do some stretching, call **dam**, podcast?
 * **Exercise.**
-
 
 ### Table of Content
 [My Repository](https://github.com/nickibaldwin)
