@@ -20,5 +20,13 @@ A growth mindset doesn't mean I won't get frustrated, it means I'll be collected
 
 
 ### table of contents
-[My Repo](https://github.com/nickibaldwin)
+[My Repo](https://github.com/nickibaldwin) 
+
+[Code Cheatsheet](code_cheatsheet.md) 
+
+[Coder's Computer](coders_computer1.md)
+
+[Markdown](markdown1.md)
+
+[Revisions and the Cloud](revisions_and_the_cloud.md)
 
