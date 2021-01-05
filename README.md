@@ -1,4 +1,4 @@
-# **nicki baldwin**
+# **Nicki Baldwin**
 
 
 ## description
@@ -7,7 +7,7 @@ reading notes for codefellows
 ### about me 
 Hello, I'm a Portland native, but I have been residing in Seattle for the last 8 years. I like pretty things, travel, movement (snowboarding, running, cycling and lagree) and cooking.
 
-### growth gindeset
+### growth mindeset
 > "It's harder to learn to drive a car,
 > than it is to actually drive."
 
