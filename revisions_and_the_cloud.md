@@ -1,16 +1,16 @@
 # Reading Notes: Revisions and the Cloud
 
-##What is Git?
+## what is git?
 * git is a version control system, takes napshot of code at any given time.
 * Allows multiple devs to work on same code.
 * History to changes made, also compare copies in history.
 * All kept in same repo
 
-## Centralized Version Control (CVCS):
+## centralized version control (CVCS):
 * Allows mulitple people to work on same project remotely. Stored on one server.
 
-## Distributed Version Control (DVCS):
-* Backup for CVCS in casse server goes down (crash or hacker), people can still find the code backed up.
+## distributed version control (DVCS):
+* Backup for CVCS in case server goes down (crash or hacker), people can still find the code backed up.
 * Not all data is lost in event of crash.
 * Git is a DVCS
 
