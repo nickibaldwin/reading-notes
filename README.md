@@ -13,5 +13,5 @@ A growth mindset doesn't mean I won't get frustrated, it means I'm collected eno
 * Take a 10 minute break when frustrated. Do some stretching, call **dam** :wolf: , podcast?
 * **Exercise.**
 
-### My Repo Site
-https://github.com/nickibaldwin
+### [My Repo Site](https://github.com/nickibaldwin)
+
