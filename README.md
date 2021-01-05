@@ -1,7 +1,7 @@
 # **Nicki Baldwin**
 
 ## description
-Reading notes for codefellows
+Reading notes for Codefellows
 
 
 ### about me 
@@ -19,6 +19,6 @@ A growth mindset doesn't mean I won't get frustrated, it means I'll be collected
 * **Exercise.**
 
 
-### table of content
-[My Repository](https://github.com/nickibaldwin)
+### table of contents
+[My Repo](https://github.com/nickibaldwin)
 
