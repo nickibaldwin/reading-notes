@@ -20,4 +20,4 @@ A growth mindset doesn't mean I won't get frustrated, it means I'll be collected
 
 ### Table of Content
 [My Repository](https://github.com/nickibaldwin)
-[Coders Computer] (coders_computer.md) 
+
