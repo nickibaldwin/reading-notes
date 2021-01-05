@@ -4,7 +4,7 @@
 Reading notes for codefellows
 
 ### About Me 
-Hello, I'm a Portland native, but I have been residing in Seattle for the last 8 years. I like pretty things, travel, movement (snowboarding, running, cycling and lagree) and cooking.
+Hello, I'm a Portland native, but I have been residing in Seattle for the past 8 years. I like pretty things, travel, movement (snowboarding, running, cycling and lagree) and cooking.
 
 ### Growth Mindeset
 > "It's harder to learn to drive a car,
