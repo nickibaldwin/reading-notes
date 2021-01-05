@@ -2,7 +2,7 @@
 
 
 ## Description
-reading notes for codefellows
+Reading notes for codefellows
 
 ### About Me 
 Hello, I'm a Portland native, but I have been residing in Seattle for the last 8 years. I like pretty things, travel, movement (snowboarding, running, cycling and lagree) and cooking.
@@ -18,6 +18,6 @@ A growth mindset doesn't mean I won't get frustrated, it means I'll be collected
 * **Exercise.**
 
 
-
-### [My Repo Site](https://github.com/nickibaldwin)
-
+### Table of Content
+[My Repository](https://github.com/nickibaldwin)
+[Coders Computer] (coders_computer.md) 
