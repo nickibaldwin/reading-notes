@@ -33,3 +33,7 @@
 
 ### Random Notes:
 * HTML code lives inside angled brackets, called HTML elements
+
+
+# HTML5
+* Does more, clearer code than just HTML
