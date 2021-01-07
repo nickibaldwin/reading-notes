@@ -36,5 +36,5 @@ A growth mindset doesn't mean I won't get frustrated, it means I'll be collected
 
 [JavaScript](read6a_javascript.md)
 
-
+[Computer Architecture and Logic](read6b_complogic.md)
 
