@@ -29,3 +29,8 @@
  i = i + 1 is the same as i++ 
  i = i - 1 is the same as i--
 * loops generally start at 0, industry standard
+
+**Data Types**
+* int - integer only numbers, not special characters at all. ie 93
+* string - uses other characters. ie '93' is considered string
+* boolean - true or false only
