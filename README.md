@@ -34,7 +34,7 @@ A growth mindset doesn't mean I won't get frustrated, it means I'll be collected
 
 [CSS Design](read5designcss.md)
 
-[JavaScript]
+[JavaScript](read6a_javascript.md)
 
 
 
