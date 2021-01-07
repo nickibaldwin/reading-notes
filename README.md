@@ -40,3 +40,5 @@ A growth mindset doesn't mean I won't get frustrated, it means I'll be collected
 
 [Programming with JavaScript](read7_progjavascript.md)
 
+[Operators and Loops](read8_loops.md)
+
