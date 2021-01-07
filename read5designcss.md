@@ -3,7 +3,7 @@
 ### color
 * Color can be defined through RGB values 102 red 205 green 170 blue, hex code, or one of 147 predefined color names.
 * If you don't specify a white background, it is then transparent based on the users chosen background color. If you want to make sure it's white, specify that.
-* Color picking tools in Photoshop or GIMP. Or online at colorschemedesign.com 
+* Color picking tools in Photoshop or GIMP. Or online at colorschemedesigner.com 
 * Hue- color. 
 * Saturation- refers the amount of gray in color. Maximum saturation there is no gray, minimum saturation is mostly gray. 100% is full saturation, 0% is a shade of gray.
 * Brightness- or "value" is how much black is in the color. Max brightness, no black, min brightness would be very dark.
