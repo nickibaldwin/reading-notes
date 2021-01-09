@@ -22,4 +22,8 @@
 
 ### randotes 
 * CSS allows varying rules on one page; variety of little boxes instead of one big one like in HTML
-* 
+
+
+### selectors 
+* Indicate which element the rule applies to. The same rule can apply to more than one element if you separate the element names with commas.
+ ![CSS Selector](img url)
