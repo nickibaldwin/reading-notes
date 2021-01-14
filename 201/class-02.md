@@ -5,6 +5,23 @@
 * <p></p> seperates paragraphs
 * <sup> to make something squared
 * <sub> to make it small, the 2 in H20
+* <strong> </strong> / <em> </em>
+  STRONG / EMPHASIS
+* <blockquote> </blockquote>
+  Did you ever stop to think, and forget to start again?
+
+* <abbr> </abbr>
+  Used for abbreviations and acronyms.
+* <cite> </cite>
+ Used for referencing a piece of work such as book, film or research paper.
+* <dfn> </dfn
+  Used to indicate the defining instance of a new term.
+* <address> </address>
+  Used to contain contact details for the author of the page.
+* <ins> <ins> & <del> </del>
+  best & worst
+* <s> </s>
+  Indicates something something that is no longer acuurate or relevant (but that should not be deleted)
 
 ## CSS
 * remember the boxes
@@ -24,6 +41,10 @@
 * Sinlge-line comments are anything that follows //. They are gray in color.
 * var quantity; var = **variable keyword**, quantity = variable name
 * quantity = 3; quantity = variable name, 3 = variable value
+* You should write comments to explain what your code does.
+/* this is javascript comment*/ for multi line comment
+// this is javascript comment for single line comment
+
 #### Data Types
 * Numeric- decimals and whole numbers
 * String Data- Letters and characters
