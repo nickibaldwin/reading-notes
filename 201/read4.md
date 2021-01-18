@@ -39,4 +39,11 @@ function sayHello(){
 ```
 
 ### Aritcle
-- 
+- Work with a partner
+1. Greater Efficiency 
+1. Engaged Colaboration
+1. Learning from fellow students
+1. Social skills
+1. Job interview readiness
+1. Work environment readiness
+
