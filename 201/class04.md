@@ -75,3 +75,17 @@ console.log(pushNumber(5)); //5 is an argument
  
 
 ```
+
+## Pair Programming
+
+- 2 people dedicated to the same outcome, there is a driver (who writes the code) and a navigator (who keeps the driver in check)
+- Both share the responsibility for producing a working thing.
+  - Nav - we need a function that sums 2 values
+  - Driver - function (param1, param2) {}
+- Separating the responsibilities of each programmer makes us more efficient :) 
+- How? The Driver clones (and forks) down Navigators project repo
+  - Fork is an exact copy of someone elses repo, but under your github account.
+  - After work is complete you make a pull requests to merge the code that you worked on together back in the original person repo.
+
+
+  

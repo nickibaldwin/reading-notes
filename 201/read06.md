@@ -26,4 +26,30 @@
 - DOM Document Object Model, specifiies how browsers should create a model of an HTML page and how JavaScript can access and update the contents of a web page while it is in the browser window.
 - 4 types of nodes: document nodes, elements nodes, attribute nodes, and text nodes.
 - Select element nodes by their id or class, attributes, tag name, or using CSS Selector.
-- 
+- **NodeList** a method can return more than one node, called a NodeList, which is a collection of nodes.
+**Methods that return single element:** page 192
+  - getElementById('id')
+  - querySelector('css selector') page 202
+**Methods that return one or more elements (NodeList):** page 192
+  - getElementsByClassName('class')
+  - getElementsByTagName('tagName')
+  - querySelectorAll('css selector')
+
+**NodeLists** page 197
+- getElementsByTagName('h1')
+  -even though this query only returns one element, it still returns a NodeList because of potential for returning more than one element.
+- getElementByTagName('li') page 201
+  - returns four elements, one for each of the <li> elements on the page. They appreat in the same order as they do in the HTML page
+- getElementByClassName('hot') page 200
+  - NodeList contains only three of the <li> elements because we are searching for elements by the value of their class attribute, not tag name.
+- querySelectorAll('li[id]')
+  - this method returns four elements, one for each of the <li> elements on the page that have an id attribute
+
+-There are two ways to select an item from a NodeList page 198
+  - item() method
+    - returns individual node from the NodeList
+  - array syntax
+    - preferred over item() method because it's faster!
+    - if you repeatedly used the NodeList, store it as a variable. 
+
+
