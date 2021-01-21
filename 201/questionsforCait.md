@@ -9,3 +9,8 @@
 
 Constructors, what in the actual fuck 
   - special type of function that creates object?
+
+Object literal vs constructor- 
+  How do I get array or data into a constructor? :(
+  Object oriented programming - pokemon example from this am
+

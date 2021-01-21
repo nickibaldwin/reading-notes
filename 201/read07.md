@@ -3,8 +3,11 @@
 
 
 ## HTML Book, Chapter 6: Tables (page 126-145)
-
-
+- TABLES
+  <table></table> table element
+  <tr></tr> table row
+  <td></td> table cell
+  <th></th> table head
 
 ## Chapter 3: Functions, Methods, and Objects (page 106-144)
 - **Creating an object: constructor notation**
