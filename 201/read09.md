@@ -2,6 +2,15 @@
 
 ## Forms 
 ### HTML Book Chapter 7, page 144-175
+- Collect information from user
+- Google search bar is example
+- There are several types of **form controls**
+  - Adding text
+    - text-input (single line), password input, text area (multi line)
+  - Making Choices
+    - radio buttons, checkboxes, drop-down boxes
+  - Submitting Forms
+    -Submit buttons, image buttons, file upload
 
 
 ## Lists, Tables & Forms 
