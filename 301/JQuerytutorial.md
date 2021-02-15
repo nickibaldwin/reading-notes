@@ -444,7 +444,7 @@ Every event handling function can receive an event object, which contains proper
 For example, let’s handle the click event on an <a> element and prevent it from following the link provided in the href attribute:
 
 ### HTML
-<a href="https://www.sololearn.com">Click me</a>
+<!-- <a href="https://www.sololearn.com">Click me</a> -->
 
 ### JS
 $("a").click(function(event){
@@ -594,9 +594,11 @@ $("div").click(function(){
 You can animate any CSS property using the above mentioned syntax, but there is one important thing to remember: all property names must be camel-cased when used with the animate() method
 
 Multiple properties can be animated at the same time by separating them with commas.
+
 ![](2021-02-14-18-52-56.png)
 
 It is also possible to define relative values (the value is then relative to the element's current value). This is done by putting += or -= in front of the value:
+
 ![](2021-02-14-18-53-30.png)
 
 To stop an animation before it is finished, jQuery provides the **stop()** method.
@@ -605,4 +607,30 @@ To stop an animation before it is finished, jQuery provides the **stop()** metho
 By default, jQuery comes with queue functionality for animations.
 This means that if you write multiple animate() calls one after another, jQuery creates an "internal" queue for these method calls. Then it runs the animate calls one-by-one.
 ![](2021-02-14-18-55-23.png)
+
+Each **animate()** method call will run one after another.
+Remember, to manipulate the position of elements, you need to set the CSS position property of the element to relative, fixed, or absolute.
+
+The animate() method, just like the hide/show/fade/slide methods, can take an optional **callback** function as its parameter, which is executed after the current effect is finished.
+
+## Drop-Down Menu
+
+Let's create a simple drop-down menu that will open upon clicking on the menu item.
+
+### HTML
+<div class="menu">
+  <div id="item">Drop-Down</div>
+  <div id="submenu">
+    <a href="#">Link 1</a>
+    <a href="#">Link 2</a>
+    <a href="#">Link 3</a>
+  </div>
+</div>
+
+### JS
+$("#item").click(function(){
+    $("#submenu").slideToggle(500);
+});
+
+The code above handles the click event of the id="item" element and opens/closes the submenu in 500 milliseconds.
 
