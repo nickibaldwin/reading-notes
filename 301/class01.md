@@ -146,11 +146,17 @@ function multiplyByIndex)number, index){ //number and index are parameters
 ## SMACSS
 !tab (basic html to start)
 **reset.css**
+
 **base.css** Is used for all the css we want on every single page that we know will stay constant, it is only for high level things
+
 **layout.css** is used to position elements on the page
+
 **modules.css** deals with how things should look
+
 **theme.css** deal with how things should look in a certain situation or when we want a temporary change. ie like a retailer with a sales site, or xmas site
 
+
+```css
 
 * {
     box-sizing: border-box;
@@ -158,5 +164,4 @@ function multiplyByIndex)number, index){ //number and index are parameters
 main {
     width: 300px;
 }
-
-
+```
