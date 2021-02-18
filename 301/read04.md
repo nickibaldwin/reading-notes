@@ -42,3 +42,12 @@ Holy Grail Layout
 "https://grid-grail.glitch.me/ — Example
 https://glitch.com/edit/#!/grid-grail — Code"
 
+### [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
+
+display: grid (block level)
+display: inline-grid (inline)
+
+Properties for the Children (**Grid Items**):
+"Note:
+float, display: inline-block, display: table-cell, vertical-align and column-* properties have no effect on a grid item."
+
