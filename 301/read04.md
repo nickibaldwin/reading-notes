@@ -1,5 +1,5 @@
 # Code 301
-## Reading 04
+## Reading 04: CSS Flexbox and Grid
 
 -[Grid Garden CSS Tutorial](https://cssgridgarden.com/)
 
@@ -51,3 +51,25 @@ Properties for the Children (**Grid Items**):
 "Note:
 float, display: inline-block, display: table-cell, vertical-align and column-* properties have no effect on a grid item."
 
+
+Grid: 
+![](2021-02-18-12-13-40.png)
+
+
+Flexbox:
+![](2021-02-18-12-30-10.png)
+
+
+Footer goes in body? 
+
+To make the nav bar stick:
+nav {
+    position: fixed;
+
+}
+
+main {
+    top: 100px;
+}
+
+![](2021-02-18-12-35-10.png)

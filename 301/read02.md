@@ -1,4 +1,5 @@
-# Reading 02
+# Code 301
+# Reading 02: jQuery, Events, and The DOM
 
 
 ## jQuery, Events, and The DOM
