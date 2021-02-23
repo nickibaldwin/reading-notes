@@ -48,3 +48,7 @@
 - "Another of Node’s big pluses is that it speaks JSON. JSON is probably the most important data exchange format on the Web, and the lingua franca for interacting with object databases (such as MongoDB)."
 
 - **"Node.js is an event-based, non-blocking, asynchronous I/O runtime that uses Google’s V8 JavaScript engine and libuv library."**
+
+![](2021-02-22-13-00-55.png)
+
+![test](/301/assets/2021-02-22-08-15-24.png)
