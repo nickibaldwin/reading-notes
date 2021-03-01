@@ -49,6 +49,6 @@
 
 - **"Node.js is an event-based, non-blocking, asynchronous I/O runtime that uses Google’s V8 JavaScript engine and libuv library."**
 
-![](2021-02-22-13-00-55.png)
+![](/301/assets/2021-02-22-13-00-55.png)
 
 ![test](/301/assets/2021-02-22-08-15-24.png)

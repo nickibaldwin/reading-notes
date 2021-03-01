@@ -6,7 +6,7 @@
 
 - C# example to decipher 
 
-![](2021-02-19-09-17-48.png)
+![](/301/assets/2021-02-19-09-17-48.png)
 
 
 - C# have no variables, only properties or objects
@@ -20,7 +20,7 @@
 
     - Visual representation 
 
-![](2021-02-19-09-56-50.png)
+![](/301/assets/2021-02-19-09-56-50.png)
 
 - When Nick asked Spencer to say Hi. Nick was the client bc he requested it. The server was Spencer. 
 
@@ -32,7 +32,7 @@ From terminal:
 
 ### For Lab today:
 
-![](2021-02-19-11-34-29.png)
+![](/301/assets/2021-02-19-11-34-29.png)
 
 
 
@@ -42,15 +42,15 @@ jQuery add event listener .on()
 .preventDefault needed for event listeners, it just keeps refreshing localhost 
 
 
-![](2021-02-19-11-55-47.png)
+![](/301/assets/2021-02-19-11-55-47.png)
 
 Above is the setup, but the data and the template don't match up (as seen below in the green). So we must adjust them to poperly render but creating an object
 
-![](2021-02-19-12-00-27.png)
+![](/301/assets/2021-02-19-12-00-27.png)
 
 Then add on restaurant data 
 
-![](2021-02-19-12-12-31.png)
+![](/301/assets/2021-02-19-12-12-31.png)
 
 
 
@@ -58,4 +58,4 @@ Then add on restaurant data
 
 (below is getting data from the internet, not from server):
 
-![](2021-02-19-12-11-23.png)
+![](/301/assets/2021-02-19-12-11-23.png)

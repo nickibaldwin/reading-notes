@@ -53,11 +53,11 @@ float, display: inline-block, display: table-cell, vertical-align and column-* p
 
 
 Grid: 
-![](2021-02-18-12-13-40.png)
+![](/301/assets/2021-02-18-12-13-40.png)
 
 
 Flexbox:
-![](2021-02-18-12-30-10.png)
+![](/301/assets/2021-02-18-12-30-10.png)
 
 
 Footer goes in body? 
@@ -72,4 +72,4 @@ main {
     top: 100px;
 }
 
-![](2021-02-18-12-35-10.png)
+![](/301/assets/2021-02-18-12-35-10.png)

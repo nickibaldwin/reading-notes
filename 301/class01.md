@@ -29,7 +29,7 @@ If I copy code from an article or anything, link the source to the copy. If I re
         Who is missing in your circle? 
         Diversity is good
 
-![](2021-02-15-09-53-18.png)
+![](/301/assests/2021-02-15-09-53-18.png)
 
 
 

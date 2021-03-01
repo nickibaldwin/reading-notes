@@ -14,35 +14,36 @@ const app = express();
 app.use(cors());//cors function call// need to get server live
 
 const PORT = process.env.PORT || 3333 // need to get server live
-const LOCATION_API_KEY
+const WEATHER_API_KEY = process.env.WEATHER_API_KEY;//the api key lives in env, and this tells it to go get it. It lives in env bc env never goes onlines as long as I have a gitignore blocking it. DO NOT PUT API KEYS ON THE INTERNET
+const RESTAURANT_API_KEY = process.env.RESTAURANT_API_KEY;
 
 //======= Routes
 
 app.get('/location', handleLocation);
-function handleLocation(req, res) {
+function handleLocation(req, res) { 
 // get data from api, pass it through a constructor. send it to the front end
     // const dataFromTheFile = require('./data/location.json'); we don't need this anymore
     //TODO go to the internet and get data
     //we need superagent: npm install -S superagent
     //TODO make this dynamic using what the client is searching or (req.query.city)
-    const city = req.query.city;
-    const url = 'API URL HERE key=${LOCATION API KEY}&q=${city}&');
-    s
-    uperagent.get(url)
-        .then(stuffTheComesBack => {
+    const city = req.query.city;//the query from client is sent to me as an object, that has a key of city which represents the value of what the user searched for
+    const url = 'API URL HERE key=${LOCATION API KEY}&q=${city}');//just cleaner than leaning url in line below.
+    superagent.get(url)//superagent is a get call, superagent makes us a client for a minute bc we are requesting information from the API
+        .then(stuffTheComesBack => {//stuff is Potato, represents data coming back from the API, it's their res to our req
 
         // console.log(stuffTheComesBack.body);//anytime this week that data comes back, it will be in the body
         //data from the file === stuffThatComesBack.body so we can replace dataFromTheFile
-        const output = new Location(stuffThatComesBack.body, req.query.city);
+        const output = new Location(stuffThatComesBack.body, req.query.city);//location OBJECT is created
 
         res.send(output);
         })
+
     .catch(errorThatComesBack => {
         console.log(errorThatComesBack);
     });
 }
 
-function Location(jsonArray, cityName){ //mapping the information in the CONSTRUCTOR
+function Location(jsonArray, cityName){ //mapping the information in the CONSTRUCTOR, we're aasking for these keys (below) back
     this.search_query = cityName;
     this.formatted_query = jasonArray[0].display_name;
     this.latitude = '1999999';
@@ -79,10 +80,6 @@ function handleGetRestaurants(req, res) {
         //500 is I did something wrong
 });
 
-$.get('location').then(stuffThatComesBackFromTheServer => {
-    Mustache.render(picAndTitleTemplate, stuffThatComesBackFromTheServer);
-    
-})
 
 
 

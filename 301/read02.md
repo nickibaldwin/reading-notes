@@ -24,11 +24,11 @@ JavaScript and jQuery book by Jon Duckett pages 293-301, 306-331 and 354-357
 2. Do something with the elements using jQuery Methods
     - The jQuery object has many mwthods that you can use to work with the elements your select. 
 
-![](2021-02-15-21-31-14.png)
+![](/301/assets/2021-02-15-21-31-14.png)
 
 
 Key differenced from the DOM
-![](2021-02-16-06-45-10.png)
+![](/301/assets/2021-02-16-06-45-10.png)
 
 Basic jQuery example 
 ![](2021-02-16-06-48-27.png)
@@ -48,7 +48,7 @@ Basic jQuery example
 ### Looping in jQuery
 - We do not have to write loops to repeat the same task in jQuery
 
-![](2021-02-16-06-59-47.png)
+![](/301/assets/2021-02-16-06-59-47.png)
 
 - Use .each() method to get info from a series of elements
 
@@ -56,18 +56,18 @@ Basic jQuery example
 
 - To use multiple methods at one time, use "chaining" which seperates the elements using dot notation. ie
 
-![](2021-02-16-07-02-10.png)
+![](/301/assets/2021-02-16-07-02-10.png)
 
 ## OR
 For ease of reading, separate by lines. ie
 
-![](2021-02-16-07-02-40.png)
+![](/301/assets/2021-02-16-07-02-40.png)
 
 
 ## **.ready(), .load(), ** method
 - Checks that the page is ready for your code to work with. ie from page 312)
 
-![](2021-02-16-07-05-09.png)
+![](/301/assets/2021-02-16-07-05-09.png)
 
 SHortcut for .ready() is **$(document)- 
 
@@ -77,48 +77,48 @@ SHortcut for .ready() is **$(document)-
 page 318, also see jQuery Tutorial Notes
 
 
-![](2021-02-16-07-09-01.png)
+![](/301/assets/2021-02-16-07-09-01.png)
 
 ## Adding New Elements to the Page 
 page 318, or see tut notes
 
-![](2021-02-16-07-11-34.png)
+![](/301/assets/2021-02-16-07-11-34.png)
 
 ## Getting and Setting Attribute Values
 page 320
 
-![](2021-02-16-07-12-44.png)
+![](/301/assets/2021-02-16-07-12-44.png)
 
-![](2021-02-16-07-13-18.png)
+![](/301/assets/2021-02-16-07-13-18.png)
 
 
 ## **.css()**
 - This method lets you retrieve and set the values of CSS
 
 page 322:
-![](2021-02-16-07-14-46.png)
+![](/301/assets/2021-02-16-07-14-46.png)
 
 - How to **change CSS** rules, however it's better practice to change in the CSS stylesheet than using JS.
 page 323
 
-![](2021-02-16-07-16-17.png)
+![](/301/assets/2021-02-16-07-16-17.png)
 
 ## .each() and this or $(this) 
 page 324
 
-![](2021-02-16-07-18-50.png)
+![](/301/assets/2021-02-16-07-18-50.png)
 
 ### Event Methods .on()
 page 326
-![](2021-02-16-07-19-57.png)
+![](/301/assets/2021-02-16-07-19-57.png)
 
 **jQuery Events**
-![](2021-02-16-07-20-30.png)
+![](/301/assets/2021-02-16-07-20-30.png)
 
 ### Event Objects 
 page 329
-![](2021-02-16-07-26-25.png)
-![](2021-02-16-07-27-05.png)
+![](/301/assets/2021-02-16-07-26-25.png)
+![](/301/assets/2021-02-16-07-27-05.png)
 
 ## &**.on()** method
 page 330
@@ -130,7 +130,7 @@ page 355
 -Protocol Relative URL
     - not http:
 
-![](2021-02-16-07-33-48.png)
+![](/301/assets/2021-02-16-07-33-48.png)
 
 
 ## Pair Programming 

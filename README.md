@@ -37,3 +37,7 @@ Code 301:
 - [Reading 04: Flexbox and Gird](301/read04.md)
 - [Reading 05: Heroku](301/read05.md)
 - [Reading 06: Node.js](301/read06.md)
+- [Reading 07: REST](301/read07.md)
+- [Reading 08: SQL](301/read08.md)
+- [Reading 09: Refactoring](301/read09.md)
+

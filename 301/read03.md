@@ -19,18 +19,18 @@ Articles:
 
 - Supports various languages.
 
-![](2021-02-17-08-30-05.png)
+![](/301/assets/2021-02-17-08-30-05.png)
 
 
 - Above, double curly braces are around the name to show it's a **placeholder.**
 
 - **NOT A TEMPLATING ENGINE**
 
-![](2021-02-17-08-35-05.png)
+![](/301/assets/2021-02-17-08-35-05.png)
 
-![](2021-02-17-08-38-33.png)
+![](/301/assets/2021-02-17-08-38-33.png)
 
-![](2021-02-17-08-39-03.png)
+![](/301/assets/2021-02-17-08-39-03.png)
 
 
 ## A Complete Guide To Flexbox
@@ -59,11 +59,11 @@ Articles:
 
 ## Flex Directions
 
-![](2021-02-17-08-49-24.png)
+![](/301/assets/2021-02-17-08-49-24.png)
 
 ## Flex Wrap
 
 - By default, flex items will try to fit onto one line.
 
-![](2021-02-17-08-50-09.png)
+![](/301/assets/2021-02-17-08-50-09.png)
 
