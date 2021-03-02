@@ -40,4 +40,6 @@ Code 301:
 - [Reading 07: REST](301/read07.md)
 - [Reading 08: SQL](301/read08.md)
 - [Reading 09: Refactoring](301/read09.md)
-
+- [Reading 10: The Call Stack](301/read10.md)
+- [Reading 11: EJS](301/read11.md)
+- [Reading 12: EJS Partials](301/read12.md)
