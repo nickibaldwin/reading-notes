@@ -27,7 +27,6 @@ Partials - native to EJS
 
 - layout.ejs ->
   - <%- include ('partials/onepartial') %> ->
-  - new folder (onepartial) path-> views/partials/onpartial.ejs
-  - <h1>We can see you</h1>
+  - new folder (onepartial) path-> views/partials/onpartial.ejs (views is NOT POTATO, must be "views" with S)
   - nodemon
   - should be able to see on localhost
