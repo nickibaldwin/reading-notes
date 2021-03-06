@@ -10,6 +10,9 @@
 
 CRUD - create, read, update, delete
         post, get
+
+HTML ONLY KNOWS GET/PUT AND POST/DELETE ie forms can only use GET or POST (also, need method override to change to POST)
+
 ![](/301/assets/2021-03-03-10-41-48.png)
 
 [CRUD/REST](https://nordicapis.com/crud-vs-rest-whats-the-difference/)
