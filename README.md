@@ -30,7 +30,7 @@ Hello! I'm a Portland native, residing in Seattle for the past 8 years. I like p
 
 [Operators and Loops](read8_loops.md) -->
 
-Code 301:
+## Code 301:
 
 - [Reading 02: jQuery, Events, and The DOM](301/read02.md)
 - [Reading 03: Reading 03: Mustache and Flexbox](301/read03.md)
@@ -43,3 +43,14 @@ Code 301:
 - [Reading 10: The Call Stack](301/read10.md)
 - [Reading 11: EJS](301/read11.md)
 - [Reading 12: EJS Partials](301/read12.md)
+
+## Code 401:
+
+Pre-Work Readings:
+- [Solving Problems](401/pwSolveProgProbs.md)
+- [Act Like You Make $1000/hr](401/pwTimeProductivity.md)
+- [How To Think Like A Programmer](401/pwThinkLikeAProgrammer.md)
+- [The 5 Whys](401/pw5whys.md)
+
+My Cheat Sheets:
+- [Javascript Methods Cheat Sheet](401/methodscheatsheet.md)

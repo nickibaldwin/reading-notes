@@ -1,5 +1,5 @@
 # Code 301
-## Class 07 APIs
+## Class 07 APIs 2/23/2021
 
 
 - snake_case camelCase lowercase UPPERCASE
@@ -60,6 +60,8 @@ npm install -s superagent
 run nodemon
 
 Fuck with Postman.com for URL/API things. URL error reduction
+
+[Front Row 2/23/2021 @2:35](https://frontrowviews.com/Home/Event/Play/601ca1cae984682d9c247e2d)
 
 
 // First req from client, we get sent an object, on the property of city. This is found on the request.query
