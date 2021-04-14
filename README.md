@@ -1,8 +1,5 @@
 # Reading Notes: Codefellows
 
-## About Me 
-Hello! I'm a Portland native, residing in Seattle for the past 8 years. I enjoy pretty things (art, aesthetics, plants!), travel, snowboarding and cooking (which is also an art form, IMO).
-
 ## Description
 This is a collection of my reading notes from Code Fellows.
 
