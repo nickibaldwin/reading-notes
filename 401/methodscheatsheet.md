@@ -21,12 +21,18 @@
 
 .map() // takes in an array, generates a new array of the same length. It calls a provided callback function once for each element in the array, in order, and construts a new array from the results.
 
-.reduce() //executes a reducer function (that you provide) on each element of the array, resulting in single output value. Use to reshape data (like API's) **left-to-right reduction
+.reduce() //runs a callback function on each element of the array, returns a new "anything" based on the accumulator. Use to reshape data (like API's) Doesn't change the original array bc this is functional programming **left-to-right reduction
+
+    //- the returned data is set using the accumalor set to an empty array [], object {}, string '', number (see line 22, 0 is the chosen accumulator for that function. Could be [] or {} depending on the desired results). Lets you reshape the data. Slapchop example from Nicholas.
+
+    //Basic format for .reduce() accumulator and current value are require, index is optional depending on the use case
+    array.reduce( (acc, val, ind) => {}, initialValue );
 
 //See ShredTalk https://www.youtube.com/watch?v=_uICFozlNYE&list=PLVngfM2hsbi-L6G8qlWd8RyRbuTamHt3k&index=9&t=487s
 ```
 ![](assets/2021-04-06-14-22-41.png)
 ![](assets/2021-04-06-14-27-22.png)
+![](assets/2021-04-12-20-42-29.png)
 ```javascript
 
 .reduceRight() //applies a function against an accumulator and each value of the array (from right-to-left) to reduce it to a single value. 
@@ -133,6 +139,56 @@ let arrDeletedItems = arr.splice(start[, deleteCount[, item1[, item2[, ...]]]])
 Math.pow(7, 3) // returns the base (7) to the 3rd power. 
 
 Math.max() // returns the largest number
+
+Math.abs() // returns absolute value
+    var position1 = 5;
+    var position2 = 300;
+    var difference = position1 - position2;
+    var magnitudeDifference = Math.abs(difference)
+    console.log('magnitudeDifference:', magnitudeDifference);
+//or 
+    function getAbsoluteValue(num) {
+    // create a result variable
+    // assign it to absolutely value of input num
+    var result = Math.abs(num);
+    // return result
+    return result;  
+}
+
+Math.ceil() //round up
+    function roundUp(num) {
+    // create a result variable
+    // assign it to input, rounded down
+    var result = Math.ceil(num);
+    // return result
+    return result;
+    }
+    
+Math.floor() //round down
+    function roundDown(num) {
+    // create a result variable
+    // assign it to input, rounded down
+    var result = Math.floor(num);
+    // return result
+    return result;
+    }
+
+Math.random() //will generate a number between 0 and 1, could be 0 but will not be 1.
+    function generateRandomNumber(min, max) {
+    // create a result variable
+    // assign it to formula for random number between min and max
+    var result = Math.random() * (max - min) + min;
+    // return result
+    return result;
+    }
+
+Number.parseInt() // parse a string into a number, no decimal
+var parsedInteger = Number.parseInt("49");
+console.log('parsedInteger:', parsedInteger);
+
+Number.parseFloat() // parse the string, including decimal
+var parsedFloat = Number.parseFloat("29.45")
+console.log('parsedFloat:', parsedFloat);
 
 //Template Literals:
 //Write a function that appends ' The end.' to a string, and returns the modified string. The original source string should not be modified.
