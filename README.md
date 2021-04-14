@@ -49,8 +49,3 @@ Pre-Work Readings:
 - [How To Think Like A Programmer](401/pwThinkLikeAProgrammer.md)
 - [The 5 Whys](401/pw5whys.md)
 - [Pre-Work Code Challenge Notes (ShredTalks)](401/pwCodeChallengeNotes.md)
-
-My Cheat Sheets:
-- [Javascript Methods Cheat Sheet](401/methodscheatsheet.md)
-- [Hot Keys Cheat Sheet](401/hotkeys.md)
-- [Code 102 Cheatsheet](code_cheatsheet.md) 
