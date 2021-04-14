@@ -16,3 +16,6 @@ search VS Code **comm + f**
 
 hightlight the word I'm currently next to **option + shift + backArrowKey**
 
+[Mac Hot Keys Cheat Sheet](https://support.apple.com/en-us/HT201236)
+
+[Spectacle Github](https://github.com/eczarny/spectacle)

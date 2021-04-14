@@ -4,7 +4,7 @@
 
 
 ### About Me 
-Hello! I'm a Portland native, residing in Seattle for the past 8 years. I like pretty things, travel, snowboarding and cooking.
+Hello! I'm a Portland native, residing in Seattle for the past 8 years. I enjoy pretty things (art, aesthetics, plants!), travel, snowboarding and cooking (which is also an art form, IMO).
 
 
 ### Table of Contents
@@ -51,6 +51,8 @@ Pre-Work Readings:
 - [Act Like You Make $1000/hr](401/pwTimeProductivity.md)
 - [How To Think Like A Programmer](401/pwThinkLikeAProgrammer.md)
 - [The 5 Whys](401/pw5whys.md)
+- [Pre-Work Code Challenge Notes (ShredTalks)](401/pwCodeChallengeNotes.md)
 
 My Cheat Sheets:
 - [Javascript Methods Cheat Sheet](401/methodscheatsheet.md)
+- [Hot Keys Cheat Sheet](401/hotkeys.md)
