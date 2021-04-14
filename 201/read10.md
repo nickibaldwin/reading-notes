@@ -1,4 +1,4 @@
-## Debugging
+## Reading 10: Debugging
 
 ### JavaScript book Chapter 10, Error handling and debugging
 

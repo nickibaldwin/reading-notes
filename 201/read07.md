@@ -1,4 +1,4 @@
-## Reading Notes: Objecy-Oriented Programming, HTML Tables
+## Reading 07: Objecy-Oriented Programming, HTML Tables
 
 
 

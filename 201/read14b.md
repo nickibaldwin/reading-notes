@@ -1,3 +1,5 @@
+## [Read: 14b: What Google Learned About Teams](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html)
+
 Super interesting article! I find group psychology so interesting (I'm curious if I'll eventually explore UX, but I have little interest at the moment). I didn't really take written notes while reading through like the textbook, but the general gist is group norms have a huge impact on the success of the team. 
 
 For positive group work:

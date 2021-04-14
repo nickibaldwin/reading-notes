@@ -1,4 +1,4 @@
-## HTML/CSS book Chapter 15, "Layout" 
+## Reading 08: More CSS "Layout"
 
 ### Positioning Elements:
 - Building Blocks pg 362

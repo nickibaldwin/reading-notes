@@ -1,4 +1,4 @@
-## Reading-Notes 06
+## Reading 06: JS Object Literals; The DOM
 
 ### [Understanding The Program Domain Is The Hardest Part of Programming](https://simpleprogrammer.com/understanding-the-problem-domain-is-the-hardest-part-of-programming)
 
