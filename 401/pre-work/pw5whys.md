@@ -35,12 +35,11 @@ Try to move quickly from one question to the next, so that you have the full pic
 
 ### 5 Whys Example:
   
-![](assets/2021-04-02-15-38-02.png)
+![](401/assets/2021-04-02-15-38-02.png)
 
-![](assets/2021-04-02-15-44-31.png)
+![](401/assets/2021-04-02-15-44-31.png)
 
 ### When to STOP
 
   - When asking "why" produces no more useful responses. Appropriate counter-measure should be evident. 
 
-  

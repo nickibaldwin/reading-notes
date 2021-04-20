@@ -17,9 +17,9 @@
 
 ```javascript
 
-.filter() //takes in an array, generartes new array of arbitrary length.
+.filter() //takes in an array, generartes new array of arbitrary length. This array will always contain elements from the first array, and builds the new array whenever the callback returns true. So I'm able to control waht goes into the new array.
 
-.map() // takes in an array, generates a new array of the same length. It calls a provided callback function once for each element in the array, in order, and construts a new array from the results.
+.map() // takes in an array, generates a new array of the same length. It calls a provided callback function once for each element in the array, in order, and construts a new array from the results. "Function method" because it doesn't modify the original array
 
 .reduce() //runs a callback function on each element of the array, returns a new "anything" based on the accumulator. Use to reshape data (like API's) Doesn't change the original array bc this is functional programming **left-to-right reduction
 
