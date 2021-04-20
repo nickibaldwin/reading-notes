@@ -44,10 +44,10 @@ showResults();
 
 - Not all callbacks are async, some are synchronous, it depends on the syntax and/or use case. For example below is synchronously written:
 
-![](401/assets/2021-04-20-08-31-07.png)
+![](assets/2021-04-20-08-31-07.png)
 
 Comparatively, here it is in async:
 
-![](401/assets/2021-04-20-08-32-13.png)
+![](assets/2021-04-20-08-32-13.png)
 
 Source Medium.com : [Callbacks — Synchronous & Asynchronous](https://medium.com/@pravngaur/callbacks-synchronous-asynchronous-62bac2b8fe85)
