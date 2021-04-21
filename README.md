@@ -44,6 +44,7 @@ This is a collection of my reading notes from Code Fellows.
 ## Code 401 - Advanced Software Development
 
 - [Reading 01: Node Ecosystem, TDD, CI/CD](401/1nodeEcoCICD.md)
+- [Reading 02: Express](401/2express.md)
 
 Pre-Work Readings:
 - [How to Solve Programming Problems](401/pwSolveProgProbs.md)
