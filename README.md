@@ -45,6 +45,7 @@ This is a collection of my reading notes from Code Fellows.
 
 - [Reading 01: Node Ecosystem, TDD, CI/CD](401/1nodeEcoCICD.md)
 - [Reading 02: Express](401/2express.md)
+- [Reading 03: Express REST API](401/3expressRESTAPI.md)
 
 Pre-Work Readings:
 - [How to Solve Programming Problems](401/pwSolveProgProbs.md)

@@ -25,7 +25,7 @@
     - cat package.json 
       - cat allows you to see whats in the package?
 
-![](401/assets/401/assets/2021-04-19-11-31-23.png)
+![](assets/401/assets/2021-04-19-11-31-23.png)
 
 Quick Server Build:
 
