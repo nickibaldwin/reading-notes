@@ -52,7 +52,7 @@ If there is a previous letter, make the previous letter the current letter and s
 
 - This should be easy, assuming previous steps were done correctly. 
 
-![](assets/2021-03-31-14-05-02.png)
+![](../assets/2021-03-31-14-05-02.png)
 
 - If issues arise- I didn't break the problem down into simple enough steps
   - Go back and simplify further.

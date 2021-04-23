@@ -2,7 +2,7 @@
 
 - Programming is all about problem solving.
 
-![](assets/2021-03-31-15-09-04.png)
+![](../assets/2021-03-31-15-09-04.png)
 
 - "“The biggest mistake I see new programmers make is focusing on learning syntax instead of learning how to solve problems.” — V. Anton Spraul"
 
@@ -32,17 +32,17 @@
 
     - Begin with the simplest problems.
 
-    ![](assets/2021-03-31-15-20-55.png)
+    ![](../assets/2021-03-31-15-20-55.png)
 
 4. Stuck?
 
-![](assets/2021-03-31-15-21-54.png)
+![](../assets/2021-03-31-15-21-54.png)
 
     Steps to follow:
 
     - DEBUGGING
 
-  ![](assets/2021-03-31-15-23-51.png)
+  ![](../assets/2021-03-31-15-23-51.png)
 
     - REASSESS
 

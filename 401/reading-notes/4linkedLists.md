@@ -22,7 +22,7 @@
 - **Current:** Referene type of node to the current being looked at. "When traversing, you create a new Current variable at the Head to guarantee you are starting from the beginning of the linked list."
 
 
-![](2021-04-23-08-35-20.png)
+![](../2021-04-23-08-35-20.png)
 
 ### Traversal
 
@@ -42,9 +42,9 @@
 - Adding a Node - 
     O(1) - replaces current Head of linbked list with a new node, without losing the referene to the next node in the list.
 
-![](2021-04-23-08-43-13.png)
+![](../2021-04-23-08-43-13.png)
 
-![](2021-04-23-08-43-49.png)
+![](../2021-04-23-08-43-49.png)
 
 AddAfter()
 
@@ -52,11 +52,11 @@ node# IE node4 or node6
 
 AddBefore() :
 
-![](2021-04-23-08-45-14.png)
+![](../2021-04-23-08-45-14.png)
 
 #### Print out Nodes
 
-![](2021-04-23-08-45-52.png)
+![](../2021-04-23-08-45-52.png)
 
 # [What’s a Linked List, Anyway?](https://medium.com/basecs/whats-a-linked-list-anyway-part-1-d8b7e6508b9d)
 
@@ -67,4 +67,4 @@ AddBefore() :
 
  - Memory Management - the bytes of memory can be scattered throughout, not in a single block of memory.
 
- ![](2021-04-23-08-51-40.png)
+ ![](../2021-04-23-08-51-40.png)

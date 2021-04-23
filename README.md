@@ -43,13 +43,14 @@ This is a collection of my reading notes from Code Fellows.
 
 ## Code 401 - Advanced Software Development
 
-- [Reading 01: Node Ecosystem, TDD, CI/CD](401/1nodeEcoCICD.md)
-- [Reading 02: Express](401/2express.md)
-- [Reading 03: Express REST API](401/3expressRESTAPI.md)
+- [Reading 01: Node Ecosystem, TDD, CI/CD](401/reading-notes/1nodeEcoCICD.md)
+- [Reading 02: Express](401/reading-notes/2express.md)
+- [Reading 03: Express REST API](401/reading-notes/3expressRESTAPI.md)
+- [Reading 04: Linked Lists](401/reading-notes/4linkedLists.md)
 
 Pre-Work Readings:
-- [How to Solve Programming Problems](401/pwSolveProgProbs.md)
-- [Act Like You Make $1000/hr](401/pwTimeProductivity.md)
-- [How To Think Like A Programmer](401/pwThinkLikeAProgrammer.md)
-- [The 5 Whys](401/pw5whys.md)
-- [Pre-Work Code Challenge Notes (ShredTalks)](401/pwCodeChallengeNotes.md)
+- [How to Solve Programming Problems](401/pre-work/pwSolveProgProbs.md)
+- [Act Like You Make $1000/hr](401/pre-work/pwTimeProductivity.md)
+- [How To Think Like A Programmer](401/pre-work/pwThinkLikeAProgrammer.md)
+- [The 5 Whys](401/pre-work/pw5whys.md)
+- [Pre-Work Code Challenge Notes (ShredTalks)](401/pre-work/pwCodeChallengeNotes.md)
