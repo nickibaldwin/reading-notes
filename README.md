@@ -47,6 +47,8 @@ This is a collection of my reading notes from Code Fellows.
 - [Reading 02: Express](401/reading-notes/2express.md)
 - [Reading 03: Express REST API](401/reading-notes/3expressRESTAPI.md)
 - [Reading 04: Linked Lists](401/reading-notes/4linkedLists.md)
+- [Reading 06: Authentication](401/reading-notes/6authentication.md)
+- [Reading 07: Bearer Authorization](401/reading-notes/7bearerAuth.md)
 
 Pre-Work Readings:
 - [How to Solve Programming Problems](401/pre-work/pwSolveProgProbs.md)
