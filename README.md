@@ -49,6 +49,11 @@ This is a collection of my reading notes from Code Fellows.
 - [Reading 04: Linked Lists](401/reading-notes/4linkedLists.md)
 - [Reading 06: Authentication](401/reading-notes/6authentication.md)
 - [Reading 07: Bearer Authorization](401/reading-notes/7bearerAuth.md)
+- [Reading 08: ACL](401/reading-notes/8acl.md)
+- [Reading 11: Event Driven Apps](401/reading-notes/11eventDrivenApps.md)
+- [Reading 12: Socket.io](401/reading-notes/12socketio.md)
+- [Reading 13: Message Queues](401/reading-notes/13messageQueues.md)
+- [Reading 16: AWS Cloud Services](401/reading-notes/16AWScloudServices.md)
 
 Pre-Work Readings:
 - [How to Solve Programming Problems](401/pre-work/pwSolveProgProbs.md)
