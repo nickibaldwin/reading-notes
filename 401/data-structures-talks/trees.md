@@ -49,9 +49,15 @@
 
   - L, R, Data
 
+![](./assets/2021-05-11-13-38-11.png)
+![](./assets/2021-05-11-13-37-27.png)
+![](./assets/2021-05-11-13-37-48.png)
+
 ## BFS (Breadth First Search aka 'Level Order Traversal')
 
   (7:30)
+
+![](./assets/2021-05-11-13-35-19.png)
 
 ## Binary Search Tree (BST)
 

@@ -54,6 +54,7 @@ This is a collection of my reading notes from Code Fellows.
 - [Reading 12: Socket.io](401/reading-notes/12socketio.md)
 - [Reading 13: Message Queues](401/reading-notes/13messageQueues.md)
 - [Reading 16: AWS Cloud Services](401/reading-notes/16AWScloudServices.md)
+- [Reading 17 + 18: AWS: API, Dynamo and Lamba](401/reading-notes/17awsS3Lambda.md)
 
 Pre-Work Readings:
 - [How to Solve Programming Problems](401/pre-work/pwSolveProgProbs.md)
